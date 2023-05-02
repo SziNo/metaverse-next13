@@ -1,6 +1,6 @@
 ## Deployed to Vercel
 
-https://gpt-4-summarizer.vercel.app/
+https://metaverse-next13-phi.vercel.app/
 
 ## Stacks
 
