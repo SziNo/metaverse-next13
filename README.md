@@ -1,10 +1,10 @@
 ## Deployed to Vercel
 
-https://metaverse-next13-phi.vercel.app/
+https://gpt-4-summarizer.vercel.app/
 
 ## Stacks
 
-React, Tailwind CSS and Framer Motion.
+Next, Tailwind CSS and Framer Motion.
 
 ## Description
 
